@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">restaurant_project_android</string>
+    <string name="restaurant_name">Nama Restoran</string>
+    <string name="restaurant_city">Kota Restoran</string>
+    <string name="profile_page_title">Profile Page</string>
+    <string name="user_name">Stanly Sukmajaya</string>
+    <string name="user_email">stanlyskwok@gmail.com</string>
+    <string name="detail_page_title">Restaurant Name</string>
+</resources>

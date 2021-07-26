@@ -1,0 +1,2 @@
+rootProject.name = "restaurant_project_android"
+include ':app'
